@@ -1,0 +1,21 @@
+body{
+    color: yellow;
+    background: black;
+}
+.heading{
+    width:80%;
+    font-size: 22px;
+    color: yellow;
+    background: black;
+}
+#camara{
+    border: 2px dashed yellowgreen;
+    width: 350px;
+    height: 300px;
+}
+#resultimageobject , #resultimageaccuracy{
+    color: whitesmoke;
+}
+.nameofobject{
+    font-size:20px;
+}
